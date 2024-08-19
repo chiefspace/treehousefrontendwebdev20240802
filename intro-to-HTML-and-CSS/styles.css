@@ -15,7 +15,7 @@ body{
 }
 
 #intro img {
-
+  width: 200px;
 }
 
 header, footer, main, div {
@@ -25,4 +25,8 @@ header, footer, main, div {
 
 a {
   color: #aa7d7a;
+}
+
+header, main, footer {
+  max-width: 800px;
 }
